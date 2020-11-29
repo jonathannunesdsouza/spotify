@@ -35,3 +35,9 @@ nav.navbar-transparente {
     color: white;
     border-color:white;
 }
+
+.divisor {
+    width: 1px;
+    background:white;
+    margin:12px 15px;
+}
