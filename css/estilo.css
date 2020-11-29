@@ -14,3 +14,19 @@ _______________________ */
     linear-gradient(50deg, #ff4169, #7c26f8);
     background-attachment: fixed;
  }
+
+ /* BARRA DE NAVEGAÇÃO
+_______________________ */
+
+nav.navbar-transparente {
+    background:rgba(0, 0 ,0 , 0.6);
+    padding: 15px 0px;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #9bf0e1;
+}
