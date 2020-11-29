@@ -21,6 +21,7 @@ html, body {
     url(../imagens/ruido.png),
     linear-gradient(50deg, #ff4169, #7c26f8);
     background-attachment: fixed;
+    font-family: Helvetica, Arial, sans-serif;
  }
 
  /* BARRA DE NAVEGAÇÃO
@@ -50,6 +51,19 @@ nav.navbar-transparente {
     margin:12px 15px;
 }
 
+/* CAPA
+_______________________ */
+
 .capa {
     text-align: center;
+}
+
+/* TIPOGRAFIA
+_______________________ */
+
+h1 { 
+    font-weight: 100;
+    letter-spacing: -0.05em;
+    margin-bottom: 50px;
+    color: white;
 }
