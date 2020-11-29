@@ -58,11 +58,39 @@ _______________________ */
     text-align: center;
 }
 
+.btn-custom {
+    color:white;
+    border-radius: 500px;
+    -webkit-border-radius:500px;
+    -moz-border-radius:500px;
+    transition: background 0.4s, color 0.4s;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}
+
+.btn-roxo {
+    background: #7c25f8;
+}
+
+.btn-roxo:hover {
+    background: #6207e3;
+    color: white;
+}
+
+.btn-branco {
+    border:2px solid white;
+}
+
+.btn-branco:hover {
+    background-color: white;
+    color: black;
+}
+
 /* TIPOGRAFIA
 _______________________ */
 
 h1 { 
-    font-weight: 650;
+    font-weight: 650    ;
     letter-spacing: -0.05em;
     margin-bottom: 50px;
     color: white;
@@ -70,7 +98,14 @@ h1 {
 
 /* Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) {
-
+    h1 {
+        font-size: 3em;
+        margin-bottom: 20px;
+    }
+    
+    .btn-custom {
+        margin-bottom: 15px;
+    }
 }
 
 /* Small devices (landscape phones, 576px and up)*/
@@ -78,6 +113,11 @@ h1 {
 
     h1 {
         font-size: 3em;
+        margin-bottom: 20px;
+    }
+
+    .btn-custom {
+        margin-bottom: 15px;
     }
 
 }
@@ -87,7 +127,10 @@ h1 {
 
     h1 {
         font-size: 4em;
+        margin-bottom: 20px;
     }
+
+    
 
 }
 
