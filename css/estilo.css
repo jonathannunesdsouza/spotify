@@ -30,3 +30,8 @@ nav.navbar-transparente {
 .navbar-light .navbar-nav .nav-link:hover {
     color: #9bf0e1;
 }
+
+.navbar-light .navbar-toggler {
+    color: white;
+    border-color:white;
+}
