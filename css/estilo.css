@@ -237,3 +237,7 @@ footer .navbar-nav a:hover {
 footer ul {
     list-style:none;
 }
+
+footer ul li {
+    float: right;
+}
