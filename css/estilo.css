@@ -203,5 +203,6 @@ _______________________ */
     transform: rotate(30deg);
     -webkit-transorm:rotate(30deg);
     -moz-transform:rotate(30deg);
+    padding-left: 80px;
     
 }
