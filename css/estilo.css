@@ -206,3 +206,11 @@ _______________________ */
     padding-left: 80px;
     
 }
+
+/* RODAPÉ
+_______________________ */
+
+footer {
+    position: relative;
+    background: black;
+}
