@@ -198,3 +198,10 @@ _______________________ */
 .beneficios {
     margin: 30px 0px;
 }
+
+.rotacionar {
+    transform: rotate(30deg);
+    -webkit-transorm:rotate(30deg);
+    -moz-transform:rotate(30deg);
+    
+}
