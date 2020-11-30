@@ -240,4 +240,5 @@ footer ul {
 
 footer ul li {
     float: right;
+    margin-left: 10px;
 }
