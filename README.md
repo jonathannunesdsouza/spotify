@@ -11,8 +11,13 @@ Este projeto é uma réplica da home page do site [Spotify] desenvolvida p/ com 
 
 ![Screenshoot tela inicial](imagens/screenshoot-md-beneficios.JPG "Exibição em ambiente desktop parte 3")
 
+## Instalação
 
+Para executar o projeto localmente o repositório deve ser clonado da forma desejada:
 
+![Screenshoot instalação](imagens/screenshoot-instalacao.JPG)
+
+Com o repositório clonado, as alterações poderam ser feitas localmente sem problema algum.
 
 
 [Spotify]:https://wwww.spotify.com.br
