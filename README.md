@@ -19,6 +19,21 @@ Para executar o projeto localmente o repositório deve ser clonado da forma dese
 
 Com o repositório clonado, as alterações poderam ser feitas localmente sem problema algum.
 
+## Histórico de atualização 
+
+* 0.0.1;
+    * Lançamento inicial.
+
+## Meta 
+
+Jonathan Douglas Nunes de Souza - [@jonathansouza] - <jonathannunes.souza98@gmail.com>
+
+[@jonathansouza]:https://www.linkedin.com/in/perfil-in/
+
+Distribuido sob licença. Veja **`LICENÇA`** para mais informações.
+
+[https://github.com/jonathannunesdsouza/jonathannunesdsouza.github.io]
+
 
 [Spotify]:https://wwww.spotify.com.br
 [Domine Web]:https://www.udemy.com/course/web-completo/
