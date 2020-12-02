@@ -15,9 +15,8 @@ Este projeto é uma réplica da home page do site [Spotify] desenvolvida p/ fins
 
 Para executar o projeto localmente o repositório deve ser clonado da forma desejada:
 
-![Screenshoot instalação](imagens/screenshoot-instalacao.JPG)
-
-Com o repositório clonado, as alterações poderam ser feitas localmente sem problema algum.
+```git clone https://github.com/jonathannunesdsouza/spotify.github.io.git
+```
 
 ## Histórico de atualização 
 
