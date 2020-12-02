@@ -1,7 +1,7 @@
 # Spotify
 >Este projeto é uma réplica da home page do site [Spotify].
 
-Este projeto é uma réplica da home page do site [Spotify] desenvolvida p/ com a intenção de aplicar os conceitos apreendidos em aula no curso [Domine Web] da [Udemy].
+Este projeto é uma réplica da home page do site [Spotify] desenvolvida p/ fins educacionais com a intenção de aplicar os conceitos apreendidos em aula no curso [Domine Web] da [Udemy].
 
 ![Screenshoot tela inicial](imagens/screenshootmobile-home.JPG "Exibição em ambiente mobile")
 
