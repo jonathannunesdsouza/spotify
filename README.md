@@ -15,7 +15,8 @@ Este projeto é uma réplica da home page do site [Spotify] desenvolvida p/ fins
 
 Para executar o projeto localmente o repositório deve ser clonado da forma desejada:
 
-```git clone https://github.com/jonathannunesdsouza/spotify.github.io.git
+```
+git clone https://github.com/jonathannunesdsouza/spotify.github.io.git
 ```
 
 ## Histórico de atualização 
